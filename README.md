@@ -30,4 +30,11 @@ This repository provides a tool for bulk translating multi-sheet Excel files and
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your_username/bulk-multi-sheet-excel-pdf-translation-tool.git
+   git clone https://github.com/AnuragRoque/bulk-multi-sheet-excel-pdf-translation-tool.git
+2. **Contract me for help and guide**
+   [Anurag Singh](mailto:anuragsingh2445@gmail.com) 📧 anuragsingh2445@gmail.com
+
+
+@anuragroque
+
+  
